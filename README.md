@@ -54,7 +54,7 @@ bash
 Copy
 Edit
 npm run dev
-Go to 👉 http://localhost:5173 to see Weather Wiz in action!
+Go to 👉 http://localhost:5173 to see Weather_Dashboard in action!
 
 Usage Guide 📖
 🌍 Search for Weather
