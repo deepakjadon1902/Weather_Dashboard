@@ -1,6 +1,6 @@
-# Weather Wiz ⚡
+# Weather_Dashboard ⚡
 
-**Weather Wiz** is your next-gen weather assistant that brings real-time weather updates and smart alerts right to your screen! Built using **React**, **TypeScript**, **Vite**, **Tailwind CSS**, and **Supabase**, it fetches data from the **OpenWeather API** and allows users to sign in and personalize their experience.
+**Weather_Dashboard** is your next-gen weather assistant that brings real-time weather updates and smart alerts right to your screen! Built using **React**, **TypeScript**, **Vite**, **Tailwind CSS**, and **Supabase**, it fetches data from the **OpenWeather API** and allows users to sign in and personalize their experience.
 
 ---
 
@@ -31,8 +31,8 @@
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/weather-wiz.git
-cd weather-wiz
+git clone https://github.com/deepakjadon1902/Weather_Dashboard.git
+cd Weather_Dashboard
 2️⃣ Install Dependencies
 bash
 Copy
@@ -87,5 +87,5 @@ Make a pull request with a solid description.
 
 Keep it clean, readable, and documented.
 
-🌦️ Stay chill, stay smart, and always be weather-ready with Weather Wiz
+🌦️ Stay chill, stay smart, and always be weather-ready with Weather_Dashboard
 ✨ Made with ☕ by DJ ™
